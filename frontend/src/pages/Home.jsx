@@ -47,9 +47,14 @@ const Home = () => {
                 <img src={heroImg} alt="" />
               </div>
             </Col>
-            <Col lg="2">
+            {/* <Col lg="2">
               <div className="hero_img-box hero_video-box ">
                 <video src={heroVideo} alt="" autoPlay loop muted controls />
+              </div>
+            </Col> */}
+            <Col lg="2">
+              <div className="hero__img-box hero_video-box">
+              <video src={heroVideo} alt="" autoPlay loop muted controls />
               </div>
             </Col>
             <Col lg="2">
