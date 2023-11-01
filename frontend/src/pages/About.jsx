@@ -2,7 +2,7 @@ import "../styles/about.css";
 import Member1 from "../assets/images/Member1.png";
 import Member2 from "../assets/images/Member2.jpg";
 import Member3 from "../assets/images/Member3.jpg";
-import Member4 from "../assets/images/Member4.jpg";
+import Member4 from "../assets/images/an.jpg";
 
 import { Row, Col } from "reactstrap";
 import Newsletter from "../shared/Newsletter";
@@ -95,7 +95,7 @@ export default function About() {
               <div className="imgWrap demo4">
                 <img src={Member4} alt="Avatar" />
               </div>
-              <h4>Adarsh Mishra</h4>
+              <h4>Anthariksh Kalbande</h4>
             </li>
           </ul>
         </div>

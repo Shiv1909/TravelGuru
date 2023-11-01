@@ -10,16 +10,16 @@
 }
 
 .footer .logo p {
-  color: var(--text-color);
+  color: white;
 }
 
 .social__links span a {
   text-decoration: none;
-  color: var(--heading-color);
+  color: white;
   font-size: 1.2rem;
 }
 .footer__link-title {
-  color: var(--heading-color);
+  color: white;
   margin-bottom: 1rem;
 }
 
