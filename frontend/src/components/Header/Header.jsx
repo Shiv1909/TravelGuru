@@ -86,13 +86,13 @@ const Header = () => {
                 {user ? (
                   <>
                     <h5 className="mb-0 mx-3">{user.username}</h5>
-                    <Button className="btn btn-white" onClick={logout}>
+                    <Button className="btn btn-dark" onClick={logout}>
                       Logout
                     </Button>
                   </>
                 ) : (
                   <>
-                    <Button className="btn  primary__btn">
+                    <Button className="btn secondary__btn">
                       <Link to="/login">Login</Link>
                     </Button>
                     <Button className="btn primary__btn">

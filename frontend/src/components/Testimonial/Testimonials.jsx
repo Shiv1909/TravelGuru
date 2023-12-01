@@ -38,7 +38,7 @@ const Testimonials = () => {
     <Slider {...settings}>
       <div className="testimonial py-4 px-3">
         <p>
-          I stumbled upon TravelGuru while planning a trip to South America and
+          I stumbled upon TravelNest while planning a trip to South America and
           I couldn't be happier with my experience. Their destination guides
           were incredibly detailed and helpful, and their customer service was
           top-notch.
@@ -53,7 +53,7 @@ const Testimonials = () => {
       </div>
       <div className="testimonial py-4 px-3">
         <p>
-          I've been a member of the TravelGuru community for a few months now
+          I've been a member of the TravelNest community for a few months now
           and I absolutely love it. It's a great way to connect with other
           travelers and get insider tips on the best places to go.
         </p>
@@ -68,7 +68,7 @@ const Testimonials = () => {
       <div className="testimonial py-4 px-3">
         <p>
           I was looking for a travel website that offered customized travel
-          packages and TravelGuru delivered. They were able to tailor a package
+          packages and TravelNest delivered. They were able to tailor a package
           to my specific needs and budget, and I had an incredible trip as a
           result.
         </p>
@@ -84,7 +84,7 @@ const Testimonials = () => {
         <p>
           Their website is easy to use and their team is responsive and helpful.
           I will definitely be using them again for my future Overall, I had a
-          great experience with TravelGuru and would recommend them to anyone
+          great experience with TravelNest and would recommend them to anyone
           looking for a reliable travel resource.
         </p>
         <div className="d-flex align-items-center gap-4 mt-3">
